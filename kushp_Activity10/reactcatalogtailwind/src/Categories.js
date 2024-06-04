@@ -1,7 +1,11 @@
+/*
+Author: Kush Pamnani
+*/
+
+
 export const Categories = [
     "electronics",
-    "jewelery"
-    ,
+    "jewelery",
     "men's clothing",
     "women's clothing"
     ]
