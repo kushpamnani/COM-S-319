@@ -1,3 +1,7 @@
+/*
+Author: Kush Pamnani
+*/
+
 export const Products = [
     {
       "id": 1,
